@@ -1,0 +1,1 @@
+ mvn archetype:generate -DgroupId=in.dinakar726 -DartifactId=beware -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
